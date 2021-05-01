@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+andrade/com/search_gifs/MainActivity.java
+ andrade.com.search_gifs.MainActivity
+andrade/com/search_gifs/BuildConfig.java
+ andrade.com.search_gifs.BuildConfig
